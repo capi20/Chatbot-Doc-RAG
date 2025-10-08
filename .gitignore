@@ -2,3 +2,4 @@
 /venv
 /vector_db
 /__pycache__
+/knowledge_base
